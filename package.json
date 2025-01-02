@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "author": "Karan Narode",
+  "license": "ISC",
+  "description": ""
+}
