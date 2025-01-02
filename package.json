@@ -9,5 +9,9 @@
   },
   "author": "Karan Narode",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "pretier": "^0.0.1",
+    "prettier": "^3.4.2"
+  }
 }
